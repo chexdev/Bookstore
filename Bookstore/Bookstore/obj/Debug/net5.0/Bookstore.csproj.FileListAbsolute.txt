@@ -1,0 +1,15 @@
+/Users/xchen/Projects/Bookstore/Bookstore/obj/Debug/net5.0/Bookstore.csproj.AssemblyReference.cache
+/Users/xchen/Projects/Bookstore/Bookstore/obj/Debug/net5.0/Bookstore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xchen/Projects/Bookstore/Bookstore/obj/Debug/net5.0/Bookstore.AssemblyInfoInputs.cache
+/Users/xchen/Projects/Bookstore/Bookstore/obj/Debug/net5.0/Bookstore.AssemblyInfo.cs
+/Users/xchen/Projects/Bookstore/Bookstore/obj/Debug/net5.0/Bookstore.csproj.CoreCompileInputs.cache
+/Users/xchen/Projects/Bookstore/Bookstore/bin/Debug/net5.0/Bookstore.deps.json
+/Users/xchen/Projects/Bookstore/Bookstore/bin/Debug/net5.0/Bookstore.runtimeconfig.json
+/Users/xchen/Projects/Bookstore/Bookstore/bin/Debug/net5.0/Bookstore.runtimeconfig.dev.json
+/Users/xchen/Projects/Bookstore/Bookstore/bin/Debug/net5.0/Bookstore.dll
+/Users/xchen/Projects/Bookstore/Bookstore/bin/Debug/net5.0/ref/Bookstore.dll
+/Users/xchen/Projects/Bookstore/Bookstore/bin/Debug/net5.0/Bookstore.pdb
+/Users/xchen/Projects/Bookstore/Bookstore/obj/Debug/net5.0/Bookstore.dll
+/Users/xchen/Projects/Bookstore/Bookstore/obj/Debug/net5.0/ref/Bookstore.dll
+/Users/xchen/Projects/Bookstore/Bookstore/obj/Debug/net5.0/Bookstore.pdb
+/Users/xchen/Projects/Bookstore/Bookstore/obj/Debug/net5.0/Bookstore.genruntimeconfig.cache
